@@ -1,0 +1,7 @@
+{
+  "name": "slack-emoji",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chris Samperisi <csamperisi@everfi.com>",
+  "license": "MIT"
+}
