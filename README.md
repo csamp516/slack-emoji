@@ -4,5 +4,5 @@
 - From this directory, run in your terminal:
 
 ```
-node grab-emoji
+node grab-emoji <emoji.json filename>
 ```
